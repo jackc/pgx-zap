@@ -1,5 +1,5 @@
-// Package zapadapter provides a logger that writes to a go.uber.org/zap.Logger.
-package zapadapter
+// Package zap provides a logger that writes to a go.uber.org/zap.Logger.
+package zap
 
 import (
 	"context"
